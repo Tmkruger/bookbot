@@ -1,2 +1,3 @@
 # bookbot
-Small book bot to count text
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
